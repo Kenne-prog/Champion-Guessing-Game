@@ -1,0 +1,15 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.randomImageContainer {
+    width: 300px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    background-color: black; /* Just for visibility */
+    text-align: center; /* If you want to center text horizontally */
+    line-height: 200px; /* If you want to center text vertically */
+}
